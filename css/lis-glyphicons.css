@@ -1,0 +1,276 @@
+@font-face {
+  font-family: 'LifeIsStrange-GlyphIcons';
+  src:  url('../fonts/LifeIsStrange-GlyphIcons.eot?nyjgkf');
+  src:  url('../fonts/LifeIsStrange-GlyphIcons.eot?nyjgkf#iefix') format('embedded-opentype'),
+    url('../fonts/LifeIsStrange-GlyphIcons.ttf?nyjgkf') format('truetype'),
+    url('../fonts/LifeIsStrange-GlyphIcons.woff?nyjgkf') format('woff'),
+    url('../fonts/LifeIsStrange-GlyphIcons.svg?nyjgkf#LifeIsStrange-GlyphIcons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'LifeIsStrange-GlyphIcons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.lis {
+  display: inline-block;
+  vertical-align: middle;
+  font: normal normal normal 14px/1 'LifeIsStrange-GlyphIcons';
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* makes the font 33% larger relative to the icon container */
+.lis-lg {
+  font-size: 1.33333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+.lis-2x {
+  font-size: 2em;
+}
+.lis-3x {
+  font-size: 3em;
+}
+.lis-4x {
+  font-size: 4em;
+}
+.lis-5x {
+  font-size: 5em;
+}
+.lis-6x {
+  font-size: 6em;
+}
+
+.lis-helmet:before {
+  content: "\e927";
+}
+.lis-waffle-wplate:before {
+  content: "\e948";
+}
+.lis-hourglass:before {
+  content: "\e900";
+}
+.lis-hole:before {
+  content: "\e901";
+}
+.lis-makeup:before {
+  content: "\e902";
+}
+.lis-misfit-skull:before {
+  content: "\e903";
+}
+.lis-amulet:before {
+  content: "\e904";
+}
+.lis-arnarchy:before {
+  content: "\e905";
+}
+.lis-bae:before {
+  content: "\e906";
+}
+.lis-bay:before {
+  content: "\e907";
+}
+.lis-b-blackwell:before {
+  content: "\e908";
+}
+.lis-b-blackwell-white:before {
+  content: "\e909";
+}
+.lis-beans:before {
+  content: "\e90a";
+}
+.lis-academy:before {
+  content: "\e90b";
+}
+.lis-bottle:before {
+  content: "\e90c";
+}
+.lis-bottle2:before {
+  content: "\e90d";
+}
+.lis-bubble:before {
+  content: "\e90e";
+}
+.lis-bubble-swear:before {
+  content: "\e90f";
+}
+.lis-butterfly:before {
+  content: "\e910";
+}
+.lis-butterfly2 .path1:before {
+  content: "\e911";
+  color: rgb(0, 0, 0);
+}
+.lis-butterfly2 .path2:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(0, 204, 255);
+}
+.lis-butterfly2 .path3:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: rgb(0, 204, 255);
+}
+.lis-butterfly2 .path4:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: rgb(0, 204, 255);
+}
+.lis-butterfly2 .path5:before {
+  content: "\e915";
+  margin-left: -1em;
+  color: rgb(0, 204, 255);
+}
+.lis-butterfly2 .path6:before {
+  content: "\e916";
+  margin-left: -1em;
+  color: rgb(0, 204, 255);
+}
+.lis-butterfly2 .path7:before {
+  content: "\e917";
+  margin-left: -1em;
+  color: rgb(0, 204, 255);
+}
+.lis-butterfly2 .path8:before {
+  content: "\e918";
+  margin-left: -1em;
+  color: rgb(0, 204, 255);
+}
+.lis-butterfly2 .path9:before {
+  content: "\e919";
+  margin-left: -1em;
+  color: rgb(0, 204, 255);
+}
+.lis-butterfly2 .path10:before {
+  content: "\e91a";
+  margin-left: -1em;
+  color: rgb(0, 204, 255);
+}
+.lis-butterfly2 .path11:before {
+  content: "\e91b";
+  margin-left: -1em;
+  color: rgb(0, 204, 255);
+}
+.lis-butterfly2 .path12:before {
+  content: "\e91c";
+  margin-left: -1em;
+  color: rgb(0, 204, 255);
+}
+.lis-butterfly2 .path13:before {
+  content: "\e91d";
+  margin-left: -1em;
+  color: rgb(0, 204, 255);
+}
+.lis-butterfly2 .path14:before {
+  content: "\e91e";
+  margin-left: -1em;
+  color: rgb(0, 204, 255);
+}
+.lis-butterfly2 .path15:before {
+  content: "\e91f";
+  margin-left: -1em;
+  color: rgb(0, 204, 255);
+}
+.lis-butterfly2 .path16:before {
+  content: "\e920";
+  margin-left: -1em;
+  color: rgb(0, 204, 255);
+}
+.lis-butterfly2 .path17:before {
+  content: "\e921";
+  margin-left: -1em;
+  color: rgb(0, 204, 255);
+}
+.lis-butterfly2 .path18:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: rgb(0, 204, 255);
+}
+.lis-butterfly2 .path19:before {
+  content: "\e923";
+  margin-left: -1em;
+  color: rgb(0, 204, 255);
+}
+.lis-butterfly2 .path20:before {
+  content: "\e924";
+  margin-left: -1em;
+  color: rgb(0, 204, 255);
+}
+.lis-camera:before {
+  content: "\e925";
+}
+.lis-camera-b:before {
+  content: "\e926";
+}
+.lis-crow:before {
+  content: "\e936";
+}
+.lis-decknine:before {
+  content: "\e937";
+}
+.lis-eye:before {
+  content: "\e938";
+}
+.lis-hawtdawg:before {
+  content: "\e939";
+}
+.lis-justice:before {
+  content: "\e93a";
+}
+.lis-key:before {
+  content: "\e93b";
+}
+.lis-lacrosse:before {
+  content: "\e93c";
+}
+.lis-lighter:before {
+  content: "\e93d";
+}
+.lis-lighthouse:before {
+  content: "\e93e";
+}
+.lis-pokerface:before {
+  content: "\e93f";
+}
+.lis-polaroid:before {
+  content: "\e940";
+}
+.lis-rewind_swirl:before {
+  content: "\e941";
+}
+.lis-security:before {
+  content: "\e942";
+}
+.lis-tie .path1:before {
+  content: "\e943";
+  color: rgb(0, 0, 0);
+}
+.lis-tie .path2:before {
+  content: "\e944";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.lis-truck:before {
+  content: "\e945";
+}
+.lis-twowhales:before {
+  content: "\e946";
+}
+.lis-waffle:before {
+  content: "\e947";
+}
