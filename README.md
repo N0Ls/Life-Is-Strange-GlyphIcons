@@ -5,6 +5,9 @@ Scalable vector icons, with easy integration for web projects.
 Customizable (size, color,etc...) with CSS.
 39 Icons at the moment.
 
+Inspired by FontAwesome and StarWars GlyphIcons.
+Created with MoonIco.
+
 ### Installation
  * Download
  * Copy css and font folder into your project.
