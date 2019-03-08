@@ -1,1 +1,29 @@
-# Life-Is-Strange-GlyphIcons
+# Life Is Strange GlyphIcons
+Life Is Strange glyphicons font and CSS toolkit.
+
+Scalable vector icons, with easy integration for web projects.
+Customizable (size, color,etc...) with CSS.
+39 Icons at the moment.
+
+### Installation
+ * Download
+ * Copy css and font folder into your project.
+ * In the `<head>` of your html, reference the location.
+ 
+ 		<link rel="stylesheet" href="path/to/css/lis-glyphicons.css">
+		
+ * Use:
+ 
+ 		<i class="lis lis-pokerface"></i>
+    
+ * Hella enjoy !
+ 
+### Cheatsheet
+You can find a cheatsheet inside the repository.
+Just open cheatsheet.html in your browser.
+ 
+### Licence
+LIFE IS STRANGE is a registered trademark of Square Enix.
+
+## Author
+ * Nils Landrodie : www.nilslandrodie.fr
