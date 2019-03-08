@@ -1,0 +1,13 @@
+.box, #blue, #tie{
+	display: block;
+	margin: auto;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	text-align: center;
+}
+.box span{
+	font-family: lato;
+	margin-left: 1em;
+	display:inline-block; vertical-align: middle;
+
+}
