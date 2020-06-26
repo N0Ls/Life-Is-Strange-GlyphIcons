@@ -2,11 +2,10 @@
 Life Is Strange glyphicons font and CSS toolkit.
 
 Scalable vector icons, with easy integration for web projects.
-Customizable (size, color,etc...) with CSS.
+Customizable (size, color, etc.) with CSS.  
 39 Icons at the moment.
 
-Inspired by FontAwesome and StarWars GlyphIcons.  
-Created with MoonIco.  
+Inspired by FontAwesome and StarWars GlyphIcons. Created with MoonIco.
 
 ### Installation
  * Download
@@ -22,12 +21,12 @@ Created with MoonIco.
  * Hella enjoy !
  
 ### Cheatsheet
-You can find a cheatsheet inside the repository.  
-Just open cheatsheet.html in your browser.
+You can find a cheatsheet inside the repository.
+Just open ***cheatsheet.html*** in your browser.
  
 ### Licence
 Use of MoonIco App.  
-Code licensed under MIT License.   
+Code licensed under [MIT License](http://opensource.org/licenses/MIT). ![GitHub](https://img.shields.io/github/license/N0Ls/Life-Is-Strange-GlyphIcons)  
 LIFE IS STRANGE is a registered trademark of Square Enix.
 
 ## Author
