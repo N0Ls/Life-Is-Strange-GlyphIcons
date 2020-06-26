@@ -5,8 +5,8 @@ Scalable vector icons, with easy integration for web projects.
 Customizable (size, color,etc...) with CSS.
 39 Icons at the moment.
 
-Inspired by FontAwesome and StarWars GlyphIcons.
-Created with MoonIco.
+Inspired by FontAwesome and StarWars GlyphIcons.  
+Created with MoonIco.  
 
 ### Installation
  * Download
@@ -15,17 +15,19 @@ Created with MoonIco.
  
  		<link rel="stylesheet" href="path/to/css/lis-glyphicons.css">
 		
- * Use:
+ * Use for example:
  
  		<i class="lis lis-pokerface"></i>
     
  * Hella enjoy !
  
 ### Cheatsheet
-You can find a cheatsheet inside the repository.
+You can find a cheatsheet inside the repository.  
 Just open cheatsheet.html in your browser.
  
 ### Licence
+Use of MoonIco App.  
+Code licensed under MIT License.   
 LIFE IS STRANGE is a registered trademark of Square Enix.
 
 ## Author
